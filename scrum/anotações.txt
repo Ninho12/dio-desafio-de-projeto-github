@@ -1,0 +1,31 @@
+A historia dos 3 porquinhos...:
+
+Resposta: primeira opção.
+
+=========================================================
+
+O que é ser agil
+
+Resposta: Planejar muito e entregar valor para o cliente
+
+===========================================================
+
+O que é uma Tarefa?
+
+Resposta: É um conjunto de atividades que deve ser entregue. ultima opção
+
+=============================================================
+
+O que é Planning Poker?
+
+Uma atividade de mensuração do esforço e complexidade de tarefas.
+
+==============================================================
+
+I - A gestão...
+
+II - A metodologia....
+
+III - A gestão de projetos agil.
+
+Apenas a II esta errada.
